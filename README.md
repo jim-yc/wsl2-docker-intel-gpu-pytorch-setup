@@ -1,6 +1,6 @@
 # WSL2 & Docker 環境下 PyTorch XPU 安裝指南 (Intel GPU)
 
-本專案提供在 Windows WSL2 (Ubuntu) 以及 Docker 容器 中，配置 Intel PyTorch (XPU) 深度學習環境的詳細手把手安裝步驟。
+本專案提供在 Windows WSL2 (Ubuntu) 以及 Docker 容器 中，配置 Intel PyTorch (XPU) 深度學習環境的詳細安裝步驟。
 適用於搭載 Intel Arc 獨立顯卡以及 Core Ultra 內顯的開發裝置。
 
 ## 實際測試環境，本人實測能跑
